@@ -1,0 +1,69 @@
+{
+ "features": [
+  "age",
+  "male",
+  "systolic",
+  "diastolic",
+  "map",
+  "pulse",
+  "temperature",
+  "weight",
+  "systolic_missing",
+  "pulse_missing",
+  "temperature_missing",
+  "weight_missing",
+  "log_days_since_prev",
+  "first_visit",
+  "log_enc_index",
+  "month_sin",
+  "month_cos",
+  "weekday",
+  "clinic=GP adult",
+  "clinic=GP children / paediatrics",
+  "clinic=NHIS and staff",
+  "clinic=Obstetrics and gynaecology",
+  "clinic=Cardiology",
+  "clinic=Endocrinology",
+  "clinic=Respiratory",
+  "clinic=Other medicine",
+  "clinic=Surgery and other"
+ ],
+ "scaler": {
+  "median": {
+   "age": 39.6413415468857,
+   "systolic": 122.0,
+   "diastolic": 75.0,
+   "map": 91.33333333333333,
+   "pulse": 80.0,
+   "temperature": 36.3,
+   "weight": 67.0,
+   "log_days_since_prev": 2.70805020110221,
+   "log_enc_index": 1.3862943611198906,
+   "weekday": 2.0
+  },
+  "mu": {
+   "age": 40.51321592089606,
+   "systolic": 124.23866516628064,
+   "diastolic": 76.1945930931259,
+   "map": 92.37559665836356,
+   "pulse": 80.7208170120832,
+   "temperature": 36.35121069786766,
+   "weight": 64.80816920776341,
+   "log_days_since_prev": 2.546149392463297,
+   "log_enc_index": 1.3309100247713455,
+   "weekday": 2.2562273303325613
+  },
+  "sd": {
+   "age": 20.53762687739886,
+   "systolic": 19.007973698667175,
+   "diastolic": 11.75747845777421,
+   "map": 13.130412159603038,
+   "pulse": 11.061632777905546,
+   "temperature": 0.2912847559647889,
+   "weight": 18.401484128807585,
+   "log_days_since_prev": 1.8757769119263117,
+   "log_enc_index": 1.0401210655128228,
+   "weekday": 1.6924026998778674
+  }
+ }
+}

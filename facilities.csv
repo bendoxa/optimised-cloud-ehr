@@ -1,0 +1,7 @@
+facility_id,state,geopolitical_zone,facility_type,ownership,location_type
+FAC001,Taraba,North East,PHC,Public State,Semi-urban
+FAC002,Oyo,South West,PHC,Public State,Semi-urban
+FAC003,Nasarawa,North Central,Tertiary,Public State,Rural
+FAC004,Osun,South West,Tertiary,Public State,Urban
+FAC010,Bauchi,North East,Secondary,Public State,Rural
+FAC012,Anambra,South East,Secondary,Public Federal,Urban
